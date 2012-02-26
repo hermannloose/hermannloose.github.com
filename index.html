@@ -1,4 +1,13 @@
-<html>
-  <head><head>
-  <body>Just a file to get page generation started. Looking into Jekyll later.</body>
-</html>
+---
+layout: layout
+title: "Burn And Tremble"
+---
+
+<ul id="posts">
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <div class="post_date">({{ post.date | date: "%B %e, %Y" }})</div>
+  </li>
+  {% endfor %}
+</ul>

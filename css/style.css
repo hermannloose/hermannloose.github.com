@@ -1,0 +1,80 @@
+body {
+  font-family: "PT Serif", serif;
+  font-size: 12pt;
+
+  margin: 0em;
+  padding: 0em 13em;
+}
+
+#blogtitle {
+  background: #252525;
+
+  font-family: "Helsinki", serif;
+  font-size: 30pt;
+  color: #fff;
+
+  padding: 0.2em 0.6em;
+}
+
+#pages_nav {
+  background: #444;
+
+  font-family: "Terminal Dosis", sans-serif;
+  font-weight: bold;
+  color: #fff;
+
+  padding: 0.2em 2em;
+}
+
+#pages_nav a, #pages_nave a:visited, #pages_nav a:hover {
+  color: #fff;
+  text-decoration: none;
+
+  padding-right: 0.5em;
+}
+
+#content {
+  padding: 1em 2em;
+}
+
+#posts {
+  font-family: "Terminal Dosis", sans-serif;
+  font-size: 14pt;
+
+  list-style: none;
+
+  margin: 0em;
+  padding: 0em;
+}
+
+#posts a {
+  font-weight: bold;
+  color: #000;
+  text-decoration: none;
+
+  padding-right: 0.5em;
+}
+
+.post_date {
+  font-family: "Terminal Dosis", sans-serif;
+  color: #aaa;
+
+  display: inline-block;
+
+  padding: 0em 0.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Serif", serif;
+  font-weight: bold;
+  color: #333;
+
+  padding: 0em;
+}
+
+#post_content {
+  text-align: justify;
+
+  margin: 0em;
+  padding: 0em;
+}
