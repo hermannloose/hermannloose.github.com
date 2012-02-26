@@ -50,7 +50,7 @@ body {
 
 #posts {
   font-family: "Terminal Dosis", sans-serif;
-  font-size: 14pt;
+  font-size: 12pt;
 
   list-style: none;
 
@@ -58,7 +58,14 @@ body {
   padding: 0em;
 }
 
+#posts li {
+  border-bottom: solid 1px #ccc;
+
+  margin-bottom: 0.5em;
+}
+
 #posts a {
+  font-family: "PT Serif", serif;
   font-weight: bold;
   color: #000;
   text-decoration: none;
@@ -71,8 +78,9 @@ body {
   color: #aaa;
 
   display: inline-block;
+  float: right;
 
-  padding: 0em 0.3em;
+  padding: 0em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -85,8 +93,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  border-bottom: solid 1px #aaa;
+
   margin-bottom: 0.1em;
   padding-bottom: 0em;
+}
+
+#post_info {
+  font-family: "Terminal Dosis", sans-serif;
+  font-weight: bold;
+  color: #aaa;
+  text-align: right;
 }
 
 #post_content {
