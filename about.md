@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: "About"
+title: "About Me"
 ---
 
 # About Me
