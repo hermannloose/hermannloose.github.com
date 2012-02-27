@@ -60,6 +60,8 @@ body {
 }
 
 #content p {
+  text-align: justify;
+
   margin: 0em;
   padding: 0.5em 0em;
 }
@@ -104,15 +106,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: #333;
 
-  margin-top: 0em;
+  margin-top: 1em;
+  margin-bottom: 0.1em;
   padding: 0em;
 }
 
 h1 {
-  border-bottom: solid 1px #aaa;
+  margin-top: 0em;
+}
 
-  margin-bottom: 0.1em;
-  padding-bottom: 0em;
+h1, h2, h3 {
+  border-bottom: solid 1px #aaa;
 }
 
 #post_info {
@@ -123,8 +127,6 @@ h1 {
 }
 
 #post_content {
-  text-align: justify;
-
   margin: 0em;
   padding: 0em;
 }
