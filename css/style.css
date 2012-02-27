@@ -13,8 +13,8 @@ body {
   font-family: "PT Serif", serif;
   font-size: 12pt;
 
-  margin: 0em;
-  padding: 0em 13em;
+  max-width: 40em;
+  margin: 0em auto;
 }
 
 #blogtitle {
