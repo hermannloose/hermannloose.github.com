@@ -66,6 +66,18 @@ body {
   padding: 0.5em 0em;
 }
 
+#author_info {
+  border-bottom: solid 1px #aaa;
+
+  text-align: right;
+
+  margin-bottom: 0.5em;
+}
+
+#author_info a {
+  color: #555;
+}
+
 #posts {
   font-family: "Terminal Dosis", sans-serif;
   font-size: 12pt;
