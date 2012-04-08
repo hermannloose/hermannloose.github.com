@@ -8,9 +8,9 @@ title: "Curriculum Vitae"
 
 ### Computer Science, Diplom ###
 
-> Dresden University of Technology (TUD)
->
 > Oct 2007 – present
+>
+> Dresden University of Technology (TUD)
 >
 > Minor: *Discrete Mathematics, Algebra & Geometry*
 
@@ -28,21 +28,27 @@ title: "Curriculum Vitae"
 
 ## Employment ##
 
-#### Google, Software Engineer Intern ####
+#### Google UK, Software Engineer Intern ####
 
-> Google UK, Ltd.
->
 > Mar '11 – Jul '11
+>
+> Worked with GWT, Guice, AppEngine and Chrome extensions developing in-house
+> products as part of a small team in CorpEng.
+
+Returning as an intern in Sep '12.
 
 #### Dresden University of Technology
 
+> Nov '10 – Feb '11
+>
 > Student assistant to Björn Döbel, Chair of Operating Systems
 >
-> Nov '10 – Feb '10
+> Worked on restartable services in L4Re, the runtime environment for the
+> Fiasco.OC microkernel. Gained experience in extending Lua in C.
 
-> Tutor for second-year students, Chair of Operating Systems
->
 > Oct '09 – Mar '10
+>
+> Tutor for second-year students, Chair of Operating Systems
 
 ## Expertise ##
 
