@@ -15,7 +15,7 @@ Upon reading the problems again, I just realized how ridiculously simple
 Tongues"](http://code.google.com/codejam/contest/1460488/dashboard#s=p0)
 must've really been (which is also what I was told on Google+ today) but back
 then, I panicked—even without the requirement to do particularly well—and went
-straight to the other problem descriptions.
+straight for the other problem descriptions.
 
 I settled on ["Recycled
 Numbers"](http://code.google.com/codejam/contest/1460488/dashboard#s=p2) as the
@@ -51,12 +51,13 @@ after 50 test cases but then hangs, even after the program has finished—but
 after panicking and aborting the run two or three times (with maybe three
 minutes left in the end) I realized that output was in fact being written. Just
 not, you know, picked up by `tail`. So I started it up one last time aaaaand
-THERE GOES THE DEADLINE.
+THERE WENT THE DEADLINE.
 
 *Really* disappointing.
 
-Wall time now says 2 minutes 49 seconds, with 2 minutes 46 seconds spent in
-userland crunching numbers. So it would've worked out, if only. Oh well.
+Wall time now when trying it again says 2 minutes 49 seconds, with 2 minutes 46
+seconds spent in userland crunching numbers. So it would've worked out, if
+only. Oh well.
 
 The last problem—enough points for the small input to qualify, which is where
 I stopped (after getting the large input correctly as well), because I wasn't
