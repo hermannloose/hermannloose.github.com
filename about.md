@@ -1,6 +1,10 @@
 ---
 layout: layout
 title: "About Me"
+sitemap:
+  priority: 1.0
+  changefreq: monthly
+  lastmod: 2012-02-17T10:00:00+02:00
 ---
 
 # About Me
