@@ -2,21 +2,27 @@
 layout: layout
 ---
 
-<h1>{{ page.title }}</h1>
-<div id="post_info">
-  {{ page.date | date: "%B %e, %Y" }}
-</div>
+<article>
 
-<div id="post_content">
-  {{ content }}
-</div>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <div id="post_info">
+      <time datetime="{{ page.date }}" pubdate>{{ page.date | date: "%B %e, %Y" }}</time>
+    </div>
+  </header>
 
-<div id="author_info">
-  the author on
-  <a href="https://twitter.com/hermannloose" rel="author">Twitter</a>,
-  <a href="https://www.facebook.com/hermannloose" rel="author">Facebook</a> and
-  <a href="https://plus.google.com/107980417360832836385" rel="author" title="Twitter, Facebook, you're excused …">Google+</a>
-</div>
+  <div id="post_content">
+    {{ content }}
+  </div>
+
+  <footer id="author_info">
+    the author on
+    <a href="https://twitter.com/hermannloose" rel="author">Twitter</a>,
+    <a href="https://www.facebook.com/hermannloose" rel="author">Facebook</a> and
+    <a href="https://plus.google.com/107980417360832836385" rel="author" title="Twitter, Facebook, you're excused …">Google+</a>
+  </footer>
+
+</article>
 
 {{ if page.comments }}
 <div id="disqus_thread"></div>
