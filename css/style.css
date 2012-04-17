@@ -149,3 +149,14 @@ blockquote {
   padding: 0 0.5em;
   margin-left: 0.5em;
 }
+
+pre {
+  border: solid #aaa 1px;
+
+  margin: 0em;
+  padding: 0.5em 0.7em;
+}
+
+code {
+  font-size: 10pt;
+}
