@@ -6,7 +6,7 @@ title: Code Jam 2012 – Qualification Round
 I qualified for Google Code Jam 2012 yesterday.
 
 I began in the afternoon, well into the round, because I didn't want to stay up
-late—the start of qualification was 12am in Germany. Having solved only one
+late, as the start of qualification was 12am in Germany. Having solved only one
 practice problem before on Friday I didn't exactly feel "limbered up" at that
 point, but I had some basic Ruby stdin/stdout workflows memorized again.
 
@@ -43,7 +43,9 @@ back, figured it'd be running a little longer than three seconds—I only tried
 one test case with the bounds being 1 and 2000000 before that, to get a sense
 of the dimensions and whether my approach would be feasible at all, with using
 Ruby etc.—and got the silly idea of `tail`'ing the output file to see progress
-… of which there wasn't any. *At all.*
+… of which there wasn't any.
+
+*At all.*
 
 Now, I'm not too sure about what *should* have happened there—straightforward
 suspicion being some buffering somewhere, as my test right now shows output
