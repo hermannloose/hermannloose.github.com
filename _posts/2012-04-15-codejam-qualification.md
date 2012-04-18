@@ -29,9 +29,9 @@ I realized that it had to be a duplicate pair of numbers somewhere, but at the
 time it didn't really occur to me how this should happen, so I took the
 *not-so-clever* approach—as in, I wouldn't want to ressort to that in an
 interview with the stakes being high—of manually going through the outputs of
-case \#4, until I stumbled upon 1212 generating both 2121 (in the form of
-212|1) and, well, 2121 (in the form of 2|121). Which made a lot of sense. Silly
-me.
+case \#4, until I stumbled upon `1212` generating both `2121` (in the form of
+`212|1`) and, well, `2121` (in the form of `2|121`). Which made a lot of sense.
+Silly me.
 
 I fixed that rather bluntly by keeping track of the pairs generated, with the
 overhead of object creation probably contributing to less than amazing running
