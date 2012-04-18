@@ -42,8 +42,8 @@ Satisfaction I then promptly ruined with the large input. I fired it up, sat
 back, figured it'd be running a little longer than three seconds—I only tried
 one test case with the bounds being 1 and 2000000 before that, to get a sense
 of the dimensions and whether my approach would be feasible at all, with using
-Ruby etc.—and got the silly idea of `tail ‑f`'ing the output file to see
-progress … of which there wasn't any. *At all.*
+Ruby etc.—and got the silly idea of `tail`'ing the output file to see progress
+… of which there wasn't any. *At all.*
 
 Now, I'm not too sure about what *should* have happened there—straightforward
 suspicion being some buffering somewhere, as my test right now shows output
