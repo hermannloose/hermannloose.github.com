@@ -22,9 +22,13 @@
 
 body {
   font-family: "PT Serif", serif;
-  font-size: 12pt;
+  /*
+   * Other sizes are partly based on a modular scale (perfect fifth) of this
+   * value. See modularscale.com for reference.
+   */
+  font-size: 16px;
 
-  max-width: 40em;
+  max-width: 41.647em;
   margin: 0em auto;
 }
 
@@ -35,7 +39,7 @@ body {
   font-size: 30pt;
   color: #fff;
 
-  padding: 0.2em 0.6em;
+  padding: 0.3em 0.8em 0.2em 0.8em;
 }
 
 #blogtitle a {
@@ -46,7 +50,7 @@ body {
 #pages_nav {
   background: #444;
 
-  font-family: "Terminal Dosis", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: bold;
   color: #fff;
 
@@ -74,7 +78,7 @@ body {
   text-align: justify;
 
   margin: 0em;
-  padding: 0.5em 0em;
+  padding: 0.214em 0em 0.722em 0em;
 }
 
 #author_info {
@@ -91,7 +95,7 @@ body {
 }
 
 #posts {
-  font-family: "Terminal Dosis", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-size: 12pt;
 
   list-style: none;
@@ -116,7 +120,7 @@ body {
 }
 
 .post_date {
-  font-family: "Terminal Dosis", sans-serif;
+  font-family: "Dosis", sans-serif;
   color: #aaa;
 
   display: inline-block;
@@ -126,25 +130,47 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Serif", serif;
   font-weight: bold;
   color: #333;
 
-  margin-top: 1em;
-  margin-bottom: 0.1em;
-  padding: 0em;
+  margin-top: 0.667em;
+  margin-bottom: 0.214em;
 }
 
 h1 {
+  font-size: 1.625em;
+}
+
+header > h1 {
   margin-top: 0em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1em;
 }
 
 h1, h2, h3 {
   border-bottom: solid 1px #aaa;
 }
 
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
 #post_info {
-  font-family: "Terminal Dosis", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: bold;
   color: #aaa;
   text-align: right;
@@ -157,6 +183,9 @@ h1, h2, h3 {
 
 blockquote {
   border-left: solid 4px #aaa;
+
+  color: #555;
+
   padding: 0 0.5em;
   margin-left: 0.5em;
 }
@@ -169,5 +198,8 @@ pre {
 }
 
 code {
+  font-family: "Ubuntu Mono", mono;
+  font-size: 1em;
+}
   font-size: 10pt;
 }
