@@ -1,3 +1,14 @@
+* {
+  border: none;
+
+  font: inherit;
+
+  margin: 0px;
+  padding: 0px;
+
+  position: relative;
+}
+
 @font-face {
     font-family: 'Helsinki';
     src: url('helsinki-webfont.eot');
