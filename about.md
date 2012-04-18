@@ -4,10 +4,12 @@ title: "About Me"
 sitemap:
   priority: 1.0
   changefreq: monthly
-  lastmod: 2012-02-17T10:00:00+02:00
+  lastmod: 2012-04-18T14:25:18+0200
 ---
 
 # About Me
+
+This is the personal blog of Hermann Loose.
 
 I'm [this guy](https://github.com/hermannloose), [this
 guy](https://twitter.com/hermannloose) and also [this
