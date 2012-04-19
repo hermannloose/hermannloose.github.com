@@ -18,7 +18,7 @@ sitemap:
 >
 > Minor: *Discrete Mathematics, Algebra & Geometry*
 
-###### [What is this Diplom, I hear you ask?](http://en.wikipedia.org/wiki/Diplom#International_Comparison) ######
+*[What is this Diplom, I hear you ask?](http://en.wikipedia.org/wiki/Diplom#International_Comparison)*
 
 ### Abitur ###
 
@@ -28,11 +28,11 @@ sitemap:
 >
 > Advanced courses: Physics, Chemistry, German
 
-###### [Wut, moar weird German degreez?!](http://en.wikipedia.org/wiki/Abitur#Equivalency) ######
+*[Wut, moar weird German degreez?!](http://en.wikipedia.org/wiki/Abitur#Equivalency)*
 
 ## Employment ##
 
-#### Google UK, Software Engineer Intern ####
+### Google UK, Software Engineer Intern ###
 
 > Mar '11 – Jul '11
 >
@@ -41,7 +41,7 @@ sitemap:
 
 Returning as an intern in Sep '12.
 
-#### Dresden University of Technology
+### Dresden University of Technology ###
 
 > Nov '10 – Feb '11
 >
@@ -50,6 +50,8 @@ Returning as an intern in Sep '12.
 > Worked on restartable services in L4Re, the runtime environment for the
 > Fiasco.OC microkernel. Gained experience in extending Lua in C.
 
+---
+
 > Oct '09 – Mar '10
 >
 > Tutor for second-year students, Chair of Operating Systems
@@ -57,8 +59,6 @@ Returning as an intern in Sep '12.
 ## Expertise ##
 
 I'm still adding to this. – Apr 8, 2012.
-
-In the meantime, how did you even get here? There no link yet, mind you. ;)
 
 ### Languages ###
 
