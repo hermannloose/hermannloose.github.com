@@ -65,15 +65,20 @@ body {
 }
 
 #content {
+  color: #333;
   line-height: 1.5;
 
   padding: 1em 2em;
 }
 
-#content a {
-  font-weight: bold;
-  color: #000;
+#content a, a:visited {
+  color: #a10;
   text-decoration: none;
+}
+
+#content a:hover {
+  color: #a10;
+  text-decoration: underline;
 }
 
 #content p {
@@ -183,13 +188,17 @@ strong {
   padding: 0em;
 }
 
+hr {
+  border-bottom: solid 1px #aaa;
+}
+
 blockquote {
   border-left: solid 4px #aaa;
 
   color: #555;
 
   padding: 0 0.5em;
-  margin-left: 0.5em;
+  margin: 0.5em 0.7em;
 }
 
 pre {
