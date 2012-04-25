@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Code Jam 2012 – Qualification Round
+meta:
+  description: "How I qualified for Google Code Jam 2012."
 ---
 
 I qualified for Google Code Jam 2012 yesterday.
