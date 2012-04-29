@@ -82,7 +82,7 @@ whole thing through again. I'm not proud of that. Such performance in an
 interview would likely have resulted in an epic fail. But then again, my mind
 wasn't too fresh yesterday.
 
-### Conclusion ###
+## Conclusion ##
 
 I don't think I will stand any chance against the masses of lightning-fast
 coders with their razor-sharp minds from all over the world (though especially
