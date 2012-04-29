@@ -9,6 +9,10 @@
   position: relative;
 }
 
+*[class|=dsq] {
+  position: static;
+}
+
 @font-face {
     font-family: 'Helsinki';
     src: url('helsinki-webfont.eot');
