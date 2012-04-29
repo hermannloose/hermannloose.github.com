@@ -1,6 +1,8 @@
 ---
 layout: layout
-title: "Curriculum Vitae"
+title: "Hermann Loose – Curriculum Vitae"
+meta:
+  description: "Curriculum Vitae of Hermann Loose"
 sitemap:
   priority: 1.0
   changefreq: monthly
