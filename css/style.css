@@ -199,6 +199,10 @@ strong {
   font-weight: bold;
 }
 
+small {
+  font-size: 0.7em;
+}
+
 #post_info {
   font-family: "Dosis", sans-serif;
   font-weight: bold;
