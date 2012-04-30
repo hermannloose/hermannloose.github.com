@@ -7,7 +7,7 @@ title: "Burn And Tremble"
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <div class="post_date">({{ post.date | date: "%B %e, %Y" }})</div>
+    <div class="post_date">{{ post.date | date: "%B %e, %Y" }}</div>
   </li>
   {% endfor %}
 </ul>
