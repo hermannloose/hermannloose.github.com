@@ -24,6 +24,16 @@
     font-style: normal;
 }
 
+html {
+  min-height: 100%;
+  max-height: none;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-align: stretch;
+  -webkit-box-pack: center;
+}
+
 body {
   font-family: "PT Serif", serif;
   /*
@@ -31,6 +41,13 @@ body {
    * value. See modularscale.com for reference.
    */
   font-size: 16px;
+
+  height: 100%;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-box-align: stretch;
+  -webkit-box-flex: 1;
 
   max-width: 41.647em;
   margin: 0em auto;
@@ -55,7 +72,7 @@ body {
   background: #444;
 
   font-family: "Dosis", sans-serif;
-  font-weight: bold;
+  font-weight: 600;
   color: #fff;
 
   padding: 0.2em 2em;
@@ -71,6 +88,8 @@ body {
 #content {
   color: #333;
   line-height: 1.5;
+
+  -webkit-box-flex: 1;
 
   padding: 1em 2em;
 }
@@ -196,6 +215,27 @@ hr {
   border-bottom: solid 1px #aaa;
 }
 
+#site-footer {
+  background: #252525;
+
+  color: #ddd;
+  font-family: "Dosis";
+  font-size: 0.8em;
+  text-align: center;
+
+  padding: 0.5em;
+}
+
+#site-footer a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#site-footer a:hover {
+  text-decoration: underline;
+}
+
 blockquote {
   border-left: solid 4px #aaa;
 
@@ -207,6 +247,9 @@ blockquote {
 
 pre {
   border: solid #aaa 1px;
+  border-radius: 3px;
+
+  line-height: 1.2;
 
   margin: 0em;
   padding: 0.5em 0.7em;
@@ -214,7 +257,5 @@ pre {
 
 code {
   font-family: "Ubuntu Mono", mono;
-  font-size: 1em;
-}
-  font-size: 10pt;
+  font-size: 0.9em;
 }
