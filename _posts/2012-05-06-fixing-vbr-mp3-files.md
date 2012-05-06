@@ -20,10 +20,10 @@ probably works fine as well.
 
 *Why would you want to do this, other than OCD?*
 
-Well, it appears to throw off Last.fm scrobblers quite a bit—say Banshee sees
-at track that's 25 minutes long and finishes playing after three minutes: "less
-than 50% played" = no scrobble. I know.—resulting in precious track plays being
-lost for [bands that deserve a lot more
+Well, it appears to throw off Last.fm scrobblers quite a bit. Say Banshee sees
+a track that's 25 minutes long and finishes playing after three minutes: "less
+than 50% played" = no scrobble. I know. This results in precious track plays
+being lost for [bands that deserve a lot more
 exposure](http://www.last.fm/music/A+Subtle+Plague).
 
 *Which is still OCD, now that I think about it.*
