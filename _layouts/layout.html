@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset="utf-8" />
     <title>{{ page.title }}</title>
@@ -8,22 +9,12 @@
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Dosis:400,600|Ubuntu+Mono|PT+Serif:400,700,400italic&subset=latin,latin-ext" type="text/css" />
     <link rel="alternate" href="http://feeds.feedburner.com/burnandtremble" type="application/rss+xml" />
     <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
+
     {% if page.meta != null and page.meta.description != null %}
     <meta name="description" content="{{ page.meta.description }}" />
     {% else %}
     <meta name="description" content="The personal blog of Hermann Loose." />
     {% endif %}
-  </head>
-  <body>
-    <div id="blogtitle"><a href="/">Burn And Tremble</a></div>
-    <nav id="pages_nav">
-      <a href="/">Blog</a>
-      <a href="/about.html">About Me</a>
-      <a href="/cv.html">CV</a>
-    </nav>
-    <div id="content">
-      {{ content }}
-    </div>
 
     <script type="text/javascript">
       var _gaq = _gaq || [];
@@ -38,6 +29,20 @@
       })();
     </script>
 
+  </head>
+
+  <body>
+    <div id="blogtitle"><a href="/">Burn And Tremble</a></div>
+    <nav id="pages_nav">
+      <a href="/">Blog</a>
+      <a href="/about.html">About Me</a>
+      <a href="/cv.html">CV</a>
+    </nav>
+    <div id="content">
+      {{ content }}
+    </div>
+
     {% include footer.html %}
   </body>
+
 </html>
