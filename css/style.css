@@ -124,6 +124,10 @@ body {
   color: #555;
 }
 
+#disqus_thread {
+  margin-top: 1em;
+}
+
 #posts {
   font-family: "Dosis", sans-serif;
   font-size: 12pt;
