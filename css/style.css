@@ -111,6 +111,11 @@ body {
   padding: 0.214em 0em 0.722em 0em;
 }
 
+#content .highlight {
+  margin: 0em;
+  padding: 0.214em 0em 0.722em 0em;
+}
+
 #author_info {
   border-bottom: solid 1px #aaa;
   font-size: 10pt;
@@ -169,6 +174,8 @@ h1, h2, h3, h4, h5, h6 {
 
   margin-top: 0.667em;
   margin-bottom: 0.214em;
+
+  vertical-align: bottom;
 }
 
 h1 {
@@ -223,6 +230,20 @@ hr {
   border-bottom: solid 1px #aaa;
 }
 
+ul {
+  margin: 0em;
+  padding: 0.214em 0em 0.722em 0em;
+}
+
+ol {
+  margin: 0em;
+  padding: 0.214em 0em 0.722em 0em;
+}
+
+li {
+  margin-left: 2em;
+}
+
 #site-footer {
   background: #252525;
 
@@ -264,6 +285,6 @@ pre {
 }
 
 code {
-  font-family: "Ubuntu Mono", mono;
-  font-size: 0.9em;
+  font-family: "Cousine", mono;
+  font-size: 0.8em;
 }
