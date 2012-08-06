@@ -1,20 +1,28 @@
 ---
 layout: layout
 title: "About Me"
+meta:
+  description: "Random bits and pieces of information about Hermann Loose that
+      don't really fit in his CV."
 sitemap:
   priority: 1.0
   changefreq: monthly
-  lastmod: 2012-04-29T19:20:00+02:00
+  lastmod: 2012-07-03T16:00:00+02:00
 ---
 
 # About Me
 
 This is the personal blog of Hermann Loose.
 
-I'm [this guy](https://github.com/hermannloose), [this
-guy](https://twitter.com/hermannloose) and also [this
-guy](https://facebook.com/hermannloose). Further, [this
-guy](https://plus.google.com/u/0/107980417360832836385/posts).
+I'd like to see myself [write code](https://github.com/hermannloose) more
+often, right now there's just a lot of cramming in order to finish my degree
+plus the unfortunate temptations of [the](https://twitter.com/hermannloose)
+[usual](https://facebook.com/hermannloose)
+[suspects](https://plus.google.com/u/0/107980417360832836385/posts).
+
+I sometimes [take photos](http://500px.com/hermannloose) of things and have in
+one or two occasions been caught [running
+around](http://runkeeper.com/user/hermannloose) for no apparent reason.
 
 Humans may contact me using
 [this](http://www.google.com/recaptcha/mailhide/d?k=0157UIhs64_DGqRB7T71cuDQ==&c=jsltL32c5672-_5bbSFu7i9lA-rqJdel1qh3qFW82Xg=).
