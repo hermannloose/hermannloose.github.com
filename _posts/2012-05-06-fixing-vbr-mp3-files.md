@@ -3,7 +3,9 @@ layout: post
 title: How to fix VBR MP3s with borken track length
 meta:
   description: A short blog post about a tool for fixing VBR MP3 track lengths on Ubuntu.
-lastmod: 2012-05-06T15:58:35+02:00
+tags:
+  - english
+lastmod: 2012-08-24T23:00:00+02:00
 ---
 
 I just came across [vbrfix](http://home.gna.org/vbrfix/), a very handy tool to

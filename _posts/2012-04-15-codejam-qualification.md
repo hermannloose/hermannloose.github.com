@@ -3,6 +3,10 @@ layout: post
 title: Code Jam 2012 – Qualification Round
 meta:
   description: "How I qualified for Google Code Jam 2012."
+tags:
+  - english
+  - programming
+lastmod: 2012-08-24T23:00:00+02:00
 ---
 
 I qualified for Google Code Jam 2012 yesterday.

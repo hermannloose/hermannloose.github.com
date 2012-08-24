@@ -3,7 +3,10 @@ layout: post
 title: Code Jam 2012 – Round 1A
 meta:
   description: How I completely failed to place in Round 1A of Google Code Jam 2012.
-lastmod: 2012-04-29T16:44:34+02:00
+tags:
+  - english
+  - programming
+lastmod: 2012-08-24T23:00:00+02:00
 ---
 
 *In which the hero completely failed to place. Like, anywhere.*

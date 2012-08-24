@@ -4,7 +4,10 @@ title: LLVM passes, thou shalt preserve them!
 meta:
   description: A short blog post about misleading assertions and shooting
       yourself in the foot with dependencies between LLVM passes.
-lastmod: 2012-08-06T13:23:58+02:00
+tags:
+  - english
+  - programming
+lastmod: 2012-08-24T23:00:00+02:00
 ---
 
 I am currently working on some LLVM passes for my intermediate thesis aka
