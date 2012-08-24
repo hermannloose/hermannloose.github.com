@@ -178,8 +178,16 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: bottom;
 }
 
-h1 {
+article h1 {
   font-size: 1.625em;
+}
+
+section h1 {
+  font-size: 1.3em;
+}
+
+section h2 {
+  font-size: 1.1em;
 }
 
 header > h1 {
