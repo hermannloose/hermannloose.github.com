@@ -116,6 +116,10 @@ body {
   padding: 0.214em 0em 0.722em 0em;
 }
 
+#tags {
+  font-family: "Dosis", sans-serif;
+}
+
 #author_info {
   border-bottom: solid 1px #aaa;
   font-size: 10pt;
