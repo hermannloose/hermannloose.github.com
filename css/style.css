@@ -228,6 +228,8 @@ small {
 
 hr {
   border-bottom: solid 1px #aaa;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 ul {
