@@ -109,11 +109,11 @@ nach Deutschland schickt.
 
 Ich stehe schließlich mit einer Prepaid-Karte wieder auf der Straße, die im
 Land der **nicht** bescheuerten Handytarife für £15 auch dralle 300 Minuten,
-3000 SMS und *unlimited* Internet bietet, für einen Monat. You heard me, die
-volle Geschwindigkeit durchweg, theoretische Grenze 1000GB im Monat, so muss
-das sein. *I'm looking at you, O2!* (Tethering ist zwar nicht erlaubt, habe ich
-gerade gelesen, aber bisher ist noch keine SMS gekommen, die mir deswegen auf
-die Finger haut.)
+3000 SMS und *all-you-can-eat* Internet bietet, für einen Monat. You heard me,
+die volle Geschwindigkeit durchweg, theoretische Grenze 1000GB im Monat, so
+muss das sein. *I'm looking at you, O2!* (Tethering ist zwar nicht erlaubt,
+habe ich gerade gelesen, aber bisher ist noch keine SMS gekommen, die mir
+deswegen auf die Finger haut.)
 
 Dann wandere ich noch etwas ziellos unter anderem in den St James's Park, setze
 mich auf eine Bank und docke erstmal wieder an der Welt zuhause an, UMTS sei
