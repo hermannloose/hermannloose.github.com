@@ -20,7 +20,7 @@ sitemap:
 >
 > Minor: *Discrete Mathematics, Algebra & Geometry*
 
-*[What is this Diplom, I hear you ask?](http://en.wikipedia.org/wiki/Diplom#International_Comparison)*
+*[What is this Diplom, I hear you ask?](http://en.wikipedia.org/wiki/Diplom#International_comparison)*
 
 ### Abitur ###
 
