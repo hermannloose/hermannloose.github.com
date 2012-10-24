@@ -11,6 +11,10 @@
     <link rel="alternate" href="http://feeds.feedburner.com/burnandtremble" type="application/rss+xml" />
     <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 
+    {% for post in site.posts limit:3 %}
+    <link rel="prefetch" href="{{ post.url }}" />
+    {% endfor %}
+
     {% if page.meta != null and page.meta.description != null %}
     <meta name="description" content="{{ page.meta.description }}" />
     {% else %}
