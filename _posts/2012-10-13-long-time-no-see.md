@@ -2,11 +2,12 @@
 layout: post
 title: Long time no see!
 meta:
-  description: 
+  description: Was so alles die letzten Wochen hier passiert ist. Völlig
+      verspätet und hastig zusammen gekliert. Enjoy.
 tags:
   - german
   - internship
-lastmod: 2012-10-13T18:00:00+01:00
+lastmod: 2012-10-24T22:00:00+01:00
 ---
 
 Geez, jetzt ist seit dem letzten Eintrag soviel Zeit vergangen, dass ich schon
@@ -15,14 +16,15 @@ letzten Wochen hier so alles los war.
 
 ## Besuch! ##
 
-Vor dreineinhalb Wochen habe ich Besuch von Rebecca, Babsi und Edgar bekommen.
+Vor dreieinhalb Wochen habe ich Besuch von Rebecca, Babsi und Edgar bekommen.
 Da war hier vielleicht Leben in der Bude! Wenn ich richtig zähle war der Kleine
 da gerade reichlich acht Monate alt, krabbelt schon wie wild, brabbelt vor sich
-hin und wenn man ihn an die Hand nimmt läuft er bis zum Umfallen. Schäkert gern
-mit allen Menschen in seiner Umgebung und war der Star jeder Zugfahrt. Außerdem
-angenehm selten knatschig, wobei euch Babsi und Rebecca angesichts des eher
-unruhigen Flugs von Frankfurt nach Heathrow sicher was ganz anderes erzählen
-würden …
+hin und wenn man ihn an die Hand nimmt läuft er bis zum Umfallen. *(Update:
+mittlerweile ist er neun Monate und hat neulich seine ersten eigenen Schritte
+gemacht!)* Schäkert gern mit allen Menschen in seiner Umgebung und war der Star
+jeder Zugfahrt. Außerdem angenehm selten knatschig, wobei euch Babsi und
+Rebecca angesichts des eher unruhigen Flugs von Frankfurt nach Heathrow sicher
+was ganz anderes erzählen würden …
 
 Donnerstag und Freitag von Arbeit möglichst früh in ein belebtes Zuhause zu
 kommen und gemeinsam Abendbrot zu essen stimmt schon um einiges fröhlicher als
@@ -34,13 +36,13 @@ sicher abwechslungsreicher. Ist nicht alles Gold hier. Ja, man jammert auf
 hohem Niveau.)*
 
 Meine Vermieterin war so lieb uns ihren sehr modernen Kinderwagen zu borgen,
-damit sind die Mädels und Edgar dann auch ordentlich auf Achse gewesen. Am
-Wochenende ging's für uns alle bei schönstem Sonnenschein nach Brighton ans
-Meer. Dort sind erst quer durch die Stadt und auf's Pier geschlendert, haben
-uns ein bisschen gesonnt und das Kirmesgedudel genossen. Dann bekommt man ja
-Hunger also zurück durch die Lanes, was nettes zum Essen suchen. So landen wir
-dann im [Dorset](http://www.thedorset.co.uk/Dorset/Home.html), was sich als
-sehr kinderfreundlich herausstellt und einen ganz vernünftigen Burger
+damit sind die Mädels und Edgar dann auch die ersten Tage ordentlich auf Achse.
+Am Wochenende geht's für uns alle bei schönstem Sonnenschein nach Brighton ans
+Meer. Dort schlendern wir erst quer durch die Stadt und auf's Pier, sonnen uns
+ein bisschen und genießen das Kirmesgedudel. Dann bekommt man ja Hunger also
+zurück durch die Lanes, was nettes zum Essen suchen. So landen wir im
+[Dorset](http://www.thedorset.co.uk/Dorset/Home.html), was sich als sehr
+kinderfreundlich herausstellt und einen ganz vernünftigen Burger
 serviert—Rucola merk ich mir, sehr gute Idee—und auch bei Babsi und Rebecca mit
 Fish & Chips und Steak punktet.
 
@@ -64,30 +66,75 @@ der anderen Straßenseite wo ich eigentlich sitze auf dem flauschigen grünen
 Fußboden des Indoor-Parks endlich wieder gekrabbelt werden, während die
 Erwachsenen noch einen kleinen Schwatz halten.
 
-Am Donnerstag ging es für Babsi wieder zurück in die Heimat, Rebecca bleibt noch
-ein paar Tage länger. An den Abenden gehen wir schön aus, im Bear & Staff
-genehmige ich mir das eine Mal soviel Ale, dass ich mich hüten muss, der Queen
-auf dem Heimweg nicht in den Garten zu pullern. Am Samstag scheint noch einmal
-schön die Sonne, wir steigen in Greenwich auf den Hügel und machen dann einen
-langen Spaziergang von London Bridge zurück nach Soho, wieder was zu Essen
-finden weil uns vorher das Angebot auf dem Borough Market schlicht überfordert.
+Am Donnerstag geht es für Babsi wieder zurück in die Heimat, Rebecca bleibt
+noch ein paar Tage länger. An den Abenden gehen wir gediegen aus, lecker Essen
+für uns beide und lecker Bier für mich. Am Samstag scheint noch einmal schön
+die Sonne, wir steigen in Greenwich auf den Hügel und machen dann einen langen
+Spaziergang von London Bridge zurück nach Soho, wieder was zu Essen finden weil
+uns vorher das Angebot auf dem Borough Market schlicht überfordert.
 
 Sonntag heißt es ganz früh Abschied nehmen, das fällt mir doch wieder sehr
-schwer.
+schwer. Noch ein letztes hastiges Küsschen als die Zugtür piept, kurz winken
+und dann ist sie auf und davon und ich schlurfe nach Hause und fühl mich doof,
+obwohl gerade erst die Sonne aufgeht.
 
-## Neue Leute! ##
+---
 
-Am selben Tag bekomme ich noch einen neuen Mitbewohner, ein Bekannter meiner
-Vermieterin, weil sie ja selbst kaum hier ist. Travon kommt aus der Karibik,
-ist ein sehr cooler Typ. Nach dem (meinerseits etwas verfehlten) Fistbump bei
-der Ankunft wollte er später eine lockere deutsche Begrüßung beigebracht
-bekommen. Ich habe die genaue Aussprache von „was geht?“ erläutert, allerdings
-verschwindet das in seinem dicken Akzent schnell wieder. Die Freundin sowie
-ihre Schwester sind auch ganz nette Menschen.
+Am selben Tag bekomme ich allerdings noch einen neuen Mitbewohner, ein
+Bekannter meiner Vermieterin, weil sie ja selbst kaum hier ist. Travon kommt
+aus der Karibik, ist ein sehr cooler Typ. Nach dem (meinerseits etwas
+verfehlten) Fistbump bei der Ankunft wollte er später eine lockere deutsche
+Begrüßung beigebracht bekommen. Ich habe die genaue Aussprache von „was geht?“
+erläutert, allerdings verschwindet das in seinem dicken Akzent schnell wieder.
+Die Freundin sowie ihre Schwester sind auch ganz nette Menschen.
 
-## Mehr Besuch! ##
+---
 
-## Mehr neue Leute! ##
+Die Woche darauf meldet sich kurzfristig Amrei für ein paar Tage an. Sie macht
+das Experiment Reisebus, kommt deswegen auch zwei Stunden später als geplant
+bei Victoria Coach Station an. Dort gibt es zuerst mal einen Burger, dann
+lassen wir ihren Rucksack bei mir auf Arbeit und machen uns auf in die Stadt.
+Wohin genau kann ich schon gar nicht mehr sagen, jedenfalls sind wir abends so
+kaputt, dass wir erst kurz nach Battersea Park merken, dass der Rucksack immer
+noch im Büro weilt. Also raus aus dem Zug, zurück, mit Rucksack wieder rein in
+den Zug, dieser bleibt dann wiederum bei Battersea Park stehen, der Lokführer
+empfiehlt uns aus ungenannten Gründen den nächsten Zug an einem anderen Gleis,
+als alle Mitreisenden mit uns dann dort im Dunkeln skeptisch warten fährt er
+weiter … wenn hier mal was daneben geht, dann jeweils so inkompetent wie
+möglich. Wir kommen entsprechend spät zuhause an und schlafen augenblicklich
+ein.
+
+Am Sonntag fahren wir zum Columbia Road Flower Market, den hat Amrei im Lonely
+Planet gefunden, den wir am Vortag erworben haben. Eine hübsche kleine Straße
+in der man kaum laufen kann, so voll ist es da und von links und rechts
+schallen die Verkäufer einer kreativer und/oder lauter als der andere.
+*Worlflowa, bunch for a pound!*
+
+Dann zurück zum Old Spitalfields Market, bummeln und Falafel essen. Weiter auf
+die Brick Lane, wo satt sein eine echt dumme Idee ist, weil es überall tolle
+Sachen gibt. Naja. Irgendwann wieder London Bridge und dann ein langer
+Spaziergang die Themse entlang, wenn ich mich richtig erinnere bis über die
+Waterloo Bridge. In Soho probieren wir eine neue Pâtisserie aus, die sich als Filiale
+einer Kette herausstellt und dementsprechend recht lieblos daherkommt, aber wir
+(oder zumindest ich) sind zu fertig, um nochmal woanders hin umzuziehen.
+
+Den letzten Abend gehen wir zusammen mit meiner Freundin Alice, die ich von
+Schulzeiten her kenne, im
+[Wahaca](http://www.wahaca.co.uk/html/1_restaurant4.html) essen. Das gibt zwar
+auch mehrmals in der Stadt, aber hier weiß ich, dass einen für recht günstige
+Preise ein absolutes Fest an mexikanischem Street Food erwartet. Zum Reinlegen!
+Wir probieren jede Menge Gerichte die alle in *hier-probier-mal!*-freundlichen
+Portionen angerichtet sind, zum Abschluss gibt es für die Fräuleins Mangosorbet
+und für mich einen Tequila, den man hier wie einen Whisky auf der Zunge
+verweilen lässt. Toller Abend!
+
+Am nächsten Tag fährt kurz nach Mittag der Bus zurück nach Hause, wir gehen
+vorher in den Pub, Amrei wollte nochmal was traditionelles essen. Sheperd's
+Pie fetzt ihr dann aber doch nicht so richtig, ich überlasse ihr mein
+gewaltiges Stück Kabeljau, ganz brüderlich. Dann muss sie los und ich verpasse
+fast mein Meeting, wieder eine hastige Verabschiedung, ohne Küsschen.
+
+---
 
 Gestern bin ich das erste Mal seit längerem wieder so richtig weg gewesen,
 nach dem TGIF gemeinsam mit ein paar Bekannten unter anderem vom letzten Jahr
@@ -117,7 +164,7 @@ In meiner Straße glotzen mich zwei Füchse an, die wie Katzen auf der Mauer
 hocken. Schon etwas verrückt, soviel Wildlife bin ich aus Dresden nicht
 gewöhnt. Gegen halb drei falle ich dann in die Federn und schlummere ein.
 
-## Alte Leier! Nee, Spaß! :) ##
+---
 
 Heute habe ich dann bis um eins geschlafen und auch danach war nicht furchtbar
 viel mit mir los. Einen Happen für morgen werde ich noch einkaufen, eventuell
