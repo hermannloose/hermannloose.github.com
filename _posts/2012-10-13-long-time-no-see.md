@@ -7,7 +7,7 @@ meta:
 tags:
   - german
   - internship
-lastmod: 2012-10-24T22:00:00+01:00
+lastmod: 2012-11-11T14:00:00+00:00
 ---
 
 Geez, jetzt ist seit dem letzten Eintrag soviel Zeit vergangen, dass ich schon
@@ -46,12 +46,32 @@ kinderfreundlich herausstellt und einen ganz vernünftigen Burger
 serviert—Rucola merk ich mir, sehr gute Idee—und auch bei Babsi und Rebecca mit
 Fish & Chips und Steak punktet.
 
+<img
+src="https://lh6.googleusercontent.com/-kBUYMEOiEno/UJ-ZbQ59FvI/AAAAAAAADbU/C13pMesv9MQ/s800/IMG_1833-2.jpg"
+max-width="100%" />
+
 Als wir dort gut gesättig wieder herausspazieren baumelt am nächsten Vintage
 Kleiderladen die beste Kinderregenjacke der Welt, für acht Pfund. Die Mutti des
 Kleinen ist ganz aus dem Häuschen, so richtig überzeugt ist er selbst später
 nicht, als er am Strand hineingesteckt wird. Aber einen Moment später sind auch
 schon wieder die vielen großen Kieselsteine interessanter und wir müssen
 aufpassen, dass er nicht allzuviele davon isst.
+
+<center>
+
+<img
+src="https://lh4.googleusercontent.com/-TGrAGht4VMQ/UJ-aIzkpBSI/AAAAAAAADbA/eA1G29eoOWA/s800/IMG_1848.jpg"
+/>
+
+<img
+src="https://lh3.googleusercontent.com/-1yuvhd6ZxG4/UJ-bFqxNONI/AAAAAAAADbc/fzAql79RKo8/s800/IMG_1916.jpg"
+/>
+
+<img
+src="https://lh4.googleusercontent.com/-gDNR7zWCLi0/UJ-bgwQVp3I/AAAAAAAADbA/BpUHtC66l3o/s800/IMG_1921.jpg"
+/>
+
+</center>
 
 Richtig ins Meer trauen sich bei den Temperaturen nur die Hunde und ein paar
 rüstige alte Ladies mit Badekappe, aber als ich meine Füße in die Brandung
@@ -109,6 +129,10 @@ Planet gefunden, den wir am Vortag erworben haben. Eine hübsche kleine Straße
 in der man kaum laufen kann, so voll ist es da und von links und rechts
 schallen die Verkäufer einer kreativer und/oder lauter als der andere.
 *Worlflowa, bunch for a pound!*
+
+<img
+src="https://lh4.googleusercontent.com/-jAbwoMHpgPk/UHyG2P8HBtI/AAAAAAAADFw/njTvZj3NHdA/s800/IMG_1995.jpg"
+/>
 
 Dann zurück zum Old Spitalfields Market, bummeln und Falafel essen. Weiter auf
 die Brick Lane, wo satt sein eine echt dumme Idee ist, weil es überall tolle
@@ -169,6 +193,3 @@ gewöhnt. Gegen halb drei falle ich dann in die Federn und schlummere ein.
 Heute habe ich dann bis um eins geschlafen und auch danach war nicht furchtbar
 viel mit mir los. Einen Happen für morgen werde ich noch einkaufen, eventuell
 stecke ich mir auch die Pfeife an und gehe ein Runde spazieren.
-
-*Fotos der letzten Wochen gibt es als Update sobald ich mich mal an den Rechner
-gesetzt habe zum Durchsehen. Ist wie mit dem Entwickeln …*
