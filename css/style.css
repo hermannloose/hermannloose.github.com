@@ -111,6 +111,11 @@ body {
   padding: 0.214em 0em 0.722em 0em;
 }
 
+#content img {
+  border: 1px solid #333;
+  max-width: 100%;
+}
+
 #content .highlight {
   margin: 0em;
   padding: 0.214em 0em 0.722em 0em;
