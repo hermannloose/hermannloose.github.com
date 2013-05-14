@@ -11,7 +11,7 @@ sitemap:
 ---
 # Hermann Loose #
 
-CS student at Dresden University of Technology. [Currently interning at
+CS student at Dresden University of Technology. [Previously an intern at
 Google.](#google_uk_software_engineer_intern)
 
 ## Education ##
@@ -42,9 +42,9 @@ Google.](#google_uk_software_engineer_intern)
 
 ### Google UK, Software Engineer Intern ###
 
-> **Sep 2012 – current**
+> **Sep 2012 – Jan 2013**
 >
-> Working on [Google
+> Worked on [Google
 > Swiffy](https://www.google.com/doubleclick/studio/swiffy/), a tool for
 > converting Flash SWF files to HTML5.
 
@@ -79,9 +79,7 @@ My NERF marksmanship is average.
 
 ### Languages ###
 
-**Ruby**, **Java**, **C** – for stuff I did prior to my current internship.
-
-I'm probably most productive in Java.
+**Ruby**, **Java**, **C** – I'm probably most productive in Java.
 
 **C++** – which I write a lot like Java, maybe not brutally efficient.
 
