@@ -7,7 +7,7 @@ meta:
 sitemap:
   priority: 1.0
   changefreq: monthly
-  lastmod: 2012-07-03T16:00:00+02:00
+  lastmod: 2013-05-14T15:15:00+02:00
 ---
 # Hermann Loose #
 
