@@ -2,25 +2,31 @@
 layout: layout
 title: "Hermann Loose – Curriculum Vitae"
 meta:
-  description: "Curriculum Vitae of Hermann Loose"
+  description: "Curriculum Vitae of Hermann Loose, computer science student in
+      Dresden, Germany."
 sitemap:
   priority: 1.0
   changefreq: monthly
-  lastmod: 2012-04-19T11:14:02+02:00
+  lastmod: 2013-05-14T15:15:00+02:00
 ---
 # Hermann Loose #
+
+CS student at Dresden University of Technology. [Previously an intern at
+Google.](#google_uk_software_engineer_intern)
 
 ## Education ##
 
 ### Computer Science, Diplom ###
 
-> Oct 2007 – present
+> **Oct 2007 – present**
 >
-> Dresden University of Technology (TUD)
+> [Dresden University of Technology (TUD)](http://www.inf.tu-dresden.de/?ln=en)
 >
 > Minor: *Discrete Mathematics, Algebra & Geometry*
-
-*[What is this Diplom, I hear you ask?](http://en.wikipedia.org/wiki/Diplom#International_comparison)*
+>
+> Broad curriculum with some focus on architecture of distributed systems.
+>
+> *[» What kind of degree is this? «](http://en.wikipedia.org/wiki/Diplom#International_comparison)*
 
 ### Abitur ###
 
@@ -29,23 +35,29 @@ sitemap:
 > Graduated Jun 2006.
 >
 > Advanced courses: Physics, Chemistry, German
-
-*[Wut, moar weird German degreez?!](http://en.wikipedia.org/wiki/Abitur#Equivalency)*
+>
+> *[» information on German A-levels «](http://en.wikipedia.org/wiki/Abitur#Equivalency)*
 
 ## Employment ##
 
 ### Google UK, Software Engineer Intern ###
 
-> Mar '11 – Jul '11
+> **Sep 2012 – Jan 2013**
+>
+> Worked on [Google
+> Swiffy](https://www.google.com/doubleclick/studio/swiffy/), a tool for
+> converting Flash SWF files to HTML5.
+
+---
+
+> **Mar 2011 – Jul 2011**
 >
 > Worked with GWT, Guice, AppEngine and Chrome extensions developing in-house
 > products as part of a small team in CorpEng.
 
-Returning as an intern in Sep '12.
-
 ### Dresden University of Technology ###
 
-> Nov '10 – Feb '11
+> **Nov 2010 – Feb 2011**
 >
 > Student assistant to Björn Döbel, Chair of Operating Systems
 >
@@ -54,19 +66,31 @@ Returning as an intern in Sep '12.
 
 ---
 
-> Oct '09 – Mar '10
+> **Oct 2009 – Mar 2010**
 >
 > Tutor for second-year students, Chair of Operating Systems
 
 ## Expertise ##
 
-I'm still adding to this. – Apr 8, 2012.
+I don't sleep well in the absence of green tests and the word code review
+gives me a warm and fuzzy feeling. I'm no stranger to agile methodology.
+
+My NERF marksmanship is average.
 
 ### Languages ###
 
-Ruby, Java, C, some C++, Python, Lua, tiny bits of Haskell, Erlang and Prolog.
+**Ruby**, **Java**, **C** – I'm probably most productive in Java.
 
-Native German, fluent English, basic French.
+**C++** – which I write a lot like Java, maybe not brutally efficient.
+
+Things I've used / dabbled in / *"heard of"* a while ago—*and definitely can't
+do on the spot without revisiting*—include Python, Lua, Haskell, Erlang,
+Prolog, in roughly that order. I'm still looking for a project to try out
+Clojure and Scala.
+
+If the language you throw at me isn't butt-ugly, I'll likely pick it up fast.
+
+Lastly, native **German**, fluent **English**, basic **French**.
 
 ---
 
