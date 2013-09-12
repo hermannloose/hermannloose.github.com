@@ -26,17 +26,18 @@ around](http://runkeeper.com/user/hermannloose) for no apparent reason.
 
 Humans may contact me using
 [this](http://www.google.com/recaptcha/mailhide/d?k=0157UIhs64_DGqRB7T71cuDQ==&c=jsltL32c5672-_5bbSFu7i9lA-rqJdel1qh3qFW82Xg=).
-See [below](#gpg) if you're uncomfortable with teh Googlez possibly reading
-your mail. (Although I'm pretty sure they don't.)
+
+### GPG
+
+My public key is
+[A4A7CDEB](http://keys.gnupg.net:11371/pks/lookup?op=vindex&search=0x1DBAC963A4A7CDEB).
+
+I highly encourage you to make the effort and encrypt *all* mail you send my
+way, since none of it is the legitimate business of the NSA, GCHQ, or others.
+
+### How did the title come about?
 
 *Burn And Tremble* is a song title by *A Subtle Plague* that I happen to like
 a lot and found to be available as a domain. You've probably **literally**
 never heard of them, at least not on the web, which is why I'm quite happy
 someone put [this gem](http://www.youtube.com/watch?v=H47HrF0a2_o#t=0m15s) up.
-
-### GPG
-My public key is [A4A7CDEB](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x1DBAC963A4A7CDEB).
-
-Don't expect me to sign most of my mail by default though, as I normally use
-GMail's web interface. Same goes for reading—Android involved here—so maybe
-give me a heads-up before sending lots of encrypted mail my way.
