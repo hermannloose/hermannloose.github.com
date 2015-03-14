@@ -7,7 +7,7 @@ meta:
 sitemap:
   priority: 1.0
   changefreq: monthly
-  lastmod: 2013-09-12T14:30:00+02:00
+  lastmod: 2015-03-14T11:20:00+01:00
 ---
 
 # About Me
@@ -26,14 +26,6 @@ around](http://runkeeper.com/user/hermannloose) for no apparent reason.
 
 Humans may contact me using
 [this](http://www.google.com/recaptcha/mailhide/d?k=0157UIhs64_DGqRB7T71cuDQ==&c=jsltL32c5672-_5bbSFu7i9lA-rqJdel1qh3qFW82Xg=).
-
-### GPG
-
-My public key is
-[A4A7CDEB](http://keys.gnupg.net:11371/pks/lookup?op=vindex&search=0x1DBAC963A4A7CDEB).
-
-I highly encourage you to make the effort and encrypt *all* mail you send my
-way, since none of it is the legitimate business of the NSA, GCHQ, or others.
 
 ### How did the title come about?
 
