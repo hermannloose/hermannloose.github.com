@@ -149,8 +149,10 @@ body {
 }
 
 #posts li {
+  display: flex;
   border-bottom: solid 1px #ccc;
 
+  margin: 0;
   margin-bottom: 0.5em;
 }
 
@@ -163,6 +165,14 @@ body {
   padding-right: 0.5em;
 }
 
+.post_title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 2cm;
+  flex-grow: 1;
+}
+
 .post_date {
   font-family: "Dosis", sans-serif;
   color: #aaa;
@@ -171,6 +181,8 @@ body {
   float: right;
 
   padding: 0em;
+  flex-grow: 0;
+  flex-shrink: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
